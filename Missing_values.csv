@@ -1,0 +1,13 @@
+Column,Value
+Sales,228.21197
+Quantity,3.764227642
+Discount,0.155884928
+state_mean,30.13053376
+sub_cat_encoded,10
+Main Category_Furniture ,0
+Main Category_Office Supplies,1
+Main Category_Technology,0
+Region_Central,0
+Region_East,0
+Region_South,0
+Region_West,1
